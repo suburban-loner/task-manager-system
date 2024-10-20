@@ -1,0 +1,33 @@
+Users registered: 5
+Tasks generated: 6
+
+User 'admin' has 1 tasks assigned to them.
+16.67% of the tasks are assigned to 'admin'.
+Completed tasks: 0.0%
+Incomplete tasks: 100.0%
+Overdue tasks: 0.0%
+
+User 'user' has 2 tasks assigned to them.
+33.33% of the tasks are assigned to 'user'.
+Completed tasks: 50.0%
+Incomplete tasks: 50.0%
+Overdue tasks: 0.0%
+
+User 'julie' has 1 tasks assigned to them.
+16.67% of the tasks are assigned to 'julie'.
+Completed tasks: 100.0%
+Incomplete tasks: 0.0%
+Overdue tasks: 0.0%
+
+User 'patrick' has 1 tasks assigned to them.
+16.67% of the tasks are assigned to 'patrick'.
+Completed tasks: 0.0%
+Incomplete tasks: 100.0%
+Overdue tasks: 0.0%
+
+User 'Andrew' has 1 tasks assigned to them.
+16.67% of the tasks are assigned to 'Andrew'.
+Completed tasks: 0.0%
+Incomplete tasks: 100.0%
+Overdue tasks: 0.0%
+
